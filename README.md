@@ -48,6 +48,9 @@ We moved beyond linear chains to a **Cyclic State Graph** that acts as the cogni
     * **Completion:** Routes to `END` to stream the response.
 * **Role-Based System Prompts:** Injects strict constraints based on user roles (TA vs. Student) fetched from **Firebase Auth**.
 
+### 3. The UI Layer (Flutter Web)
+A lightweight, reactive frontend for interaction.
+* **Repo:** [Student-Drive-Multimodal-RAG-Assistant](https://github.com/AbdelrahmanAtef01/Student-Drive-Multimodal-RAG-Assistant)
 ---
 
 ## 🛠 Technical Deep Dive: The Multimodal Pipeline
@@ -193,3 +196,4 @@ CHROMA_PATH=./chroma_db
 ---
 
 *Engineered with precision for the next generation of EdTech.*
+

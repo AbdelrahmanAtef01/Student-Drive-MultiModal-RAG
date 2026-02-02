@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+chroma_db/
+data_input/
+data_output/
+data_output_final/
+credentials/
+*.sqlite3
+.vscode/
